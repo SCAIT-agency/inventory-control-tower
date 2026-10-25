@@ -6,6 +6,8 @@ One Apps Script file builds the whole workbook: 15 tabs, about 47,000 live formu
 
 This is an anonymized code sample. All names, SKUs and numbers in the demo dataset are synthetic.
 
+Built by [SCAIT](https://scait.space). SCAIT is a done-for-you inventory management and reorder planning service for brands selling their own products on Shopify and Amazon, in the US and EU.
+
 ## Files
 
 | File | Purpose |
